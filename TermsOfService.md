@@ -1,8 +1,8 @@
-**<div style="text-align: center;">Terms of Service</div>**
+# Terms of Service
 
-*Last updated: [Insert Date]*
+*Last updated: 2024-10-14*
 
-**1. Your Relationship with Us**
+## 1. Your Relationship with Us
 
 **Hello and Welcome to Nomnow！**
 
@@ -12,19 +12,19 @@
 
 **In the Terms, “you” and “your” means you as the user of the Services. If you use the Services on behalf of a company or other entity then “you” includes you and that entity, and you represent and warrant that (a) you are an authorized representative of the entity with the authority to bind the entity to the Terms, and (b) you agree to the Terms on the entity’s behalf.**
 
-**2. Accepting the Terms**
+## 2. Accepting the Terms
 
 **By accessing or using our Services, you confirm that (a) you are legally competent to form a binding contract with Nomnow; and** **(b) you accept these Terms and that you agree to comply with them**. **Your access to and use of our Services is also subject to our** [**Privacy Policy**](https://legal.bondee.net/privacy-policy)**, which can be found directly on the Platform. Our Privacy Policy explains what personal data we collect from you, or that you provide to us, as well as the practice concerning our use, retention and process of your personal data.**
 
 **You can accept the Terms by accessing or using our Services. You understand and agree that we will treat your access or use of the Services as acceptance of the Terms from that point onwards.**
 
-**3. Use of the Services**
+## 3. Use of the Services
 
-1.  **About the Services**
+### A. About the Services
 
 **Nomnow offers a calorie tracking tool and an Artificial Intelligence (AI) diet analytics tool through a text, voice and photograph interface.**
 
-User Safety
+#### B. User Safety
 
 Nomnow prioritises the safety and wellbeing of our users.
 
@@ -36,11 +36,11 @@ Further, we strongly advise all users to exercise caution and refrain from discl
 
 Users are solely responsible for protecting their personal information and should be aware of potential risks associated with online platforms. We encourage users to report any suspicious or inappropriate behaviour encountered on the platform, as we are committed to maintaining a safe and respectful environment for all users.
 
-Modification to the Services
+#### C. Modification to the Services
 
 We reserve the right to modify or discontinue, temporarily or permanently, the Services (or any part thereof) with or without notice. You agree that Nomnow will not be liable to you or to any third party for any modification, suspension or discontinuance of the Services.
 
-1.  **Your Account on the Platform**
+### D. Your Account on the Platform
 
 **Registration Obligation**. When you register to use the Services, you agree to provide accurate and complete information about yourself. If you are under 18 years old, do not sign up for the Services without the consent of your legal guardian. To access or use our Services, you must create an account on the Platform.
 
@@ -50,11 +50,11 @@ We reserve the right to modify or discontinue, temporarily or permanently, the S
 
 If you no longer want to use our Services and would like to delete your account, you can do this through the "account deletion" feature within the Platform. Please note that after your confirmation of the deletion, you will not be able to reactivate your account, or retrieve any of the content or information in your account.
 
-1.  **General Practices regarding Use and Storage**
+### E. General Practices regarding Use and Storage
 
-You acknowledge that Nomnow may establish general practices and limits concerning use of the Services. These may include, without limitation, the maximum period of time that data or other content will be retained by the Services and the maximum storage space that will be alotted on Nomnow’s services on your behalf. You agree that Nomnow has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded to the Services. You acknowledge that Nomnow reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that Nomnow reserves the right to change these general practices and limits any time, in its sole discretion, with or without notice.
+You acknowledge that Nomnow may establish general practices and limits concerning use of the Services. These may include, without limitation, the maximum period of time that data or other content will be retained by the Services and the maximum storage space that will be allotted on Nomnow’s services on your behalf. You agree that Nomnow has no responsibility or liability for the deletion or failure to store any data or other content maintained or uploaded to the Services. You acknowledge that Nomnow reserves the right to terminate accounts that are inactive for an extended period of time. You further acknowledge that Nomnow reserves the right to change these general practices and limits any time, in its sole discretion, with or without notice.
 
-**4. Condition of Use**
+## 4. Condition of Use
 
 **Your access to and use of the Services is subject to these Terms, our Privacy Policy, and all applicable laws and regulations. You are solely responsible for all content you submit to the Services. You should not:**
 
@@ -76,7 +76,7 @@ You acknowledge that Nomnow may establish general practices and limits concernin
 -   **use the Services to upload, transmit, distribute, store or otherwise make available in any way:**
     -   **files that contain viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful;**
     -   **any private information of any third party, including addresses, phone numbers, email addresses, numbers and features in personal identity documents (e.g., ID numbers, passport numbers) or credit card numbers;**
-    -   **any material which does or may infringe any copyright, trade mark or other intellectual property or image rights or personality rights or privacy of any other person;**
+    -   **any material which does or may infringe any copyright, trademark or other intellectual property or image rights or personality rights or privacy of any other person;**
     -   **any material which is defamatory, insulting, libellous to any person, obscene, offensive, pornographic, hateful or inflammatory;**
     -   **any material that would constitute, encourage or instigate a criminal offence, dangerous activities or self-harm;**
     -   **any material that is deliberately designed to provoke or antagonize any person(s), especially trolling and bullying, or is intended to harass, harm, hurt, scare, distress, embarrass or upset any person(s);**
@@ -95,11 +95,11 @@ You acknowledge that Nomnow may establish general practices and limits concernin
 
 **We reserve the right to investigate and take appropriate action against anyone who we conclude, in our sole discretion, has violated the provisions above. That action may include, without limitation, removing content from the Services, suspending or terminating your account, and reporting you to law enforcement.**
 
-**5. Intellectual Property Rights**
+## 5. Intellectual Property Rights
 
 **We respect intellectual property rights and ask you to do the same. As a condition of your access to and use of the Services, you agree not to use the Services to infringe on any intellectual property rights. We reserve the right, with or without notice, at any time and in our sole discretion to block access to and/or terminate the account of any user who infringes or is alleged to infringe any copyrights or other intellectual property rights.**
 
-**A. Nomnow Content**
+### A. Nomnow Content
 
 You acknowledge and agree that, all content, software, images, text, graphics, illustrations, logos, patents, trademarks, service marks, copyrights, photographs, audio, video, music and all intellectual property rights related thereto on the Services (the “Nomnow Content”), are either owned or licensed by Nomnow. Use of the Nomnow Content or materials on the Services for any purpose not expressly permitted by these Terms is strictly prohibited. Such content should not be downloaded, copied, reproduced, distributed, transmitted, broadcast, displayed, sold, licensed or otherwise exploited for any purpose whatsoever without our or, where applicable, our licensors’ prior written consent. We and our licensors reserve all rights not expressly granted in the Services and Nomnow Content.
 
@@ -109,7 +109,7 @@ The content on our Services is provided for general information only. It is not 
 
 We make no representations, warranties or guarantees, whether express or implied, that any Nomnow Content is accurate, complete or up to date.
 
-**B. AI-Generated Content**
+### B. AI-Generated Content
 
 **By using the Services you acknowledge that the responses or recommendations you get from the AI diet analytics tool provided by the Services are software generated and not human-generated, and Nomnow cannot control and does not endorse them.**
 
@@ -123,9 +123,9 @@ We make no representations, warranties or guarantees, whether express or implied
 
 **You agree that you must evaluate, and bear all risks associated with, the creation and use of any AI-Generated Content, including any illegality in the AI-Generated Content. You should not rely on the accuracy or completeness of statements made in AI-Generated Content, and if you do so, you acknowledge that it is at your own risk.**
 
-**Should you find the AI diet analytics tool’s responses to be offensive, indecent or objectionable, you may notify us at [contact@nomnowchat.com](mailto:contact@nomnowchat.com), and we will thoroughly examine the claim and at our discretion make the necessary measures, if possible, to the AI diet analytics tool.**
+Should you find the AI diet analytics tool**’**s responses to be offensive, indecent or objectionable, you may notify us at [contact@nomnowchat.com](mailto:contact@nomnowchat.com) and we will thoroughly examine the claim and at our discretion make the necessary measures, if possible, to the AI diet analytics tool**.**
 
-**C. Content You Submit**
+### C. Content You Submit
 
 When you submit Content to the Services, you represent and warrant that you own all right, title and interest in and to that Content (including, without limitation, all copyrights and rights of publicity), or that you have received all necessary permissions, clearances, and authorizations in order to submit it to the Services for the uses contemplated in these Terms.
 
@@ -143,7 +143,7 @@ If you have any other issues you'd like to raise, you can contact us at: [contac
 -   **Feedback is provided on a non-confidential basis, and we are not under any obligation to keep any Feedback you send confidential or to refrain from using or disclosing it in any way; and**
 -   **You irrevocably grant us perpetual and unlimited permission to reproduce, distribute, create derivative works of, modify, publicly perform (including on a through-to-the-audience basis), communicate to the public, make available, publicly display, and otherwise use and exploit the Feedback and derivatives thereof for any purpose and without restriction, free of charge and without attribution of any kind, including by making, using, selling, offering for sale, importing, and promoting commercial products and services that incorporate or embody Feedback, whether in whole or in part, and whether as provided or as modified.**
 
-**6. Indemnity**
+## 6. Indemnity
 
 **You agree to fully indemnify and defend Nomnow, its parents, subsidiaries, and affiliates, and each of their respective officers, directors, employees, agents and advisors (collectively, “Indemnitees”) from and against any and all claims, demands, actions, suits proceedings, damages, obligations, losses, liabilities, costs, penalties or expenses (including but not limited to legal fees incurred by the Indemnitees on a full indemnity basis) including, without limitation to, those suffered or incurred by the Indemnitees arising out of or in connection with:**
 
@@ -151,7 +151,7 @@ If you have any other issues you'd like to raise, you can contact us at: [contac
 -   **a breach by you or any user of your account of these Terms or your obligations under these Terms; and**
 -   **your infringement of any third party right (including any intellectual property rights (such as copyright and trademarks), property rights or privacy rights).**
 
-**7. EXCLUSION OF WARRANTIES**
+## 7. EXCLUSION OF WARRANTIES
 
 NOTHING IN THESE TERMS SHALL AFFECT YOUR STATUTORY RIGHTS, INCLUDING YOUR RIGHT TO APPLY FOR MODIFICATION OR RESCISSION OF THESE TERMS AS YOU ARE LEGALLY ALWAYS ENTITLED TO AS A CONSUMER.
 
@@ -172,7 +172,7 @@ NOTHING IN THESE TERMS SHALL AFFECT YOUR STATUTORY RIGHTS, INCLUDING YOUR RIGHT 
 
 **YOU ACKNOWLEDGE AND AGREE THAT NOMNOW DOES NOT WARRANT THE SECURITY OF ANY INFORMATION TRANSMITTED BY OR TO YOU USING THE SERVICES AND YOU HEREBY ACCEPT THE RISK THAT ANY INFORMATION TRANSMITTED OR RECEIVED USING THE SERVICES MAY BE ACCESSED BY UNAUTHORISED THIRD PARTIES AND/OR DISCLOSED BY NOMNOW AND BY ITS OFFICERS, EMPLOYEES OR AGENTS TO THIRD PARTIES PURPORTING TO BE YOU OR PURPORTING TO ACT UNDER YOUR AUTHORITY. YOU WILL NOT HOLD NOMNOW OR ANY OF ITS OFFICERS, EMPLOYEES OR AGENTS RESPONSIBLE OR LIABLE, IN CONTRACT, TORT (INCLUDING NEGLIGENCE OR BREACH OF STATUTORY DUTY), EQUITY OR OTHERWISE, FOR ANY SUCH ACCESS OR DISCLOSURE OR FOR ANY LOSS (WHETHER DIRECT OR INDIRECT, OR WHETHER FORESEEABLE OR NOT) SUFFERED OR INCURRED BY YOU AS A RESULT OF ANY SUCH ACCESS OR DISCLOSURE.**
 
-**8. LIMITATION OF LIABILITY**
+## 8. LIMITATION OF LIABILITY
 
 **NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT OUR LIABILITY FOR LOSSES WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. THIS INCLUDES LIABILITY FOR DEATH OR PERSONAL INJURY CAUSED BY OUR NEGLIGENCE OR THE NEGLIGENCE OF OUR EMPLOYEES, AGENTS OR SUB-CONTRACTORS AND FOR FRAUD OR FRAUDULENT MISREPRESENTATION.**
 
@@ -182,7 +182,7 @@ NOTHING IN THESE TERMS SHALL AFFECT YOUR STATUTORY RIGHTS, INCLUDING YOUR RIGHT 
 
 **WE SHALL NOT BE LIABLE TO YOU FOR (A) ANY LOSS OF PROFIT OR ANTICIPATED SAVINGS (WHETHER ARISING DIRECTLY OR INDIRECTLY); (B) ANY LOSS OF GOODWILL OR REPUTATION; (C) ANY LOSS OF CONTRACT OR OTHER BUSINESS OPPORTUNITY; (D) ANY LOSS OR CORRUPTION OF DATA SUFFERED BY YOU; (E) ANY INDIRECT, PUNITIVE OR SPECIAL DAMAGES, OR INCIDENTAL OR CONSEQUENTIAL LOSS THAT YOU MAY SUFFER; OR (F) ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU, OR DEATH OR PERSONAL INJURY CAUSED TO YOU OR ANY THIRD PARTY (SAVE FOR OUR NEGLIGENCE OR THE NEGLIGENCE OF OUR EMPLOYEES, AGENTS OR SUB-CONTRACTORS) AS A RESULT OF:**
 
--   **ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVSERTISING OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN YOU AND ANY ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS ON THE SERVICE**
+-   **ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN YOU AND ANY ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS ON THE SERVICE**
 -   **YOUR ACCESS TO, USE OF, OR INABILITY TO ACCESS OR USE THE SERVICES (INCLUDING IN CONNECTION WITH THE MAINTENANCE, FAILURE, ERROR OR UNAVAILABILITY OF ANY PART OF THE SERVICES)；**
 -   **ANY CHANGES WE MAY MAKE TO THE SERVICES, OR THE PERMANENT OR TEMPORARY SUSPENSION OF THE PROVISION OF THE SERVICES (OR ANY FEATURE WITHIN THE SERVICES);**
 -   **ANY DEFECT, ERROR, IMPERFECTION, MALFUNCTION, FLAW OR INACCURACY IN THE SERVICES, THEIR CONTENT OR RELATED SERVICE;**
@@ -224,65 +224,64 @@ NOTHING IN THESE TERMS SHALL AFFECT YOUR STATUTORY RIGHTS, INCLUDING YOUR RIGHT 
 
 **TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANY DISPUTE BETWEEN YOU AND ANY THIRD PARTY INCLUDING BUT NOT LIMITED TO ANY CARRIER, ADVERTISER, COPYRIGHT HOLDER OR OTHER USER ARISING OUT OF YOUR USE OF THE SERVICES IS LIMITED TO THAT BETWEEN YOU AND THEM, AND YOU HAVE FULLY AND IRREVOCABLY RELEASED NOMNOW AND ITS AFFILIATES FROM ANY AND ALL CLAIMS, DEMANDS AND DAMAGES (ACTUAL AND CONSEQUENTIAL) OF ANY AND ALL TYPES AND NATURE, KNOWN AND UNKNOWN, AGAINST US AND OUR AFFILIATES ARISING OUT OF OR IN ANY WAY IN CONNECTION WITH SUCH DISPUTE.**
 
-**9. Termination**
+## 9. Termination
 
 You agree that Nomnow, in its sole discretion, may suspend or terminate your account (or any part thereof) or use of the Services and remove and discard any content within the Services, for any reason, including, without limitation, for lack of use or if Nomnow believes that you have violated or acted inconsistently with the letter or spirit of these Terms.
 
 Nomnow may also in its sole discretion and at any time discontinue providing the Services, or any part thereof, with or without notice. You agree that any termination of your access to the Services under any provision of these Terms may be effected without prior notice, and acknowledge and agree that Nomnow may (but has no obligation to) immediately deactivate or delete your account and all related information and files in your account and/or bar any further access to such files or the Services. Termination of your account or access to any component of the Services will not terminate Nomnow’s rights to your Content. Further, you agree that Nomnow will not be liable to you or any third party for any termination of your access to the Services.
 
-**10. Other Terms**
-
-**A. Applicable Law and Jurisdiction**
+## 10. Other Terms
+### A. Applicable Law and Jurisdiction
 
 Unless otherwise provided in the supplemental terms applicable to a particular jurisdiction, these Terms, their subject matter and their execution, are governed by the laws of Hong Kong.
 
 **Any dispute arising out of or in connection with these Terms, including any question regarding existence, validity or termination of these Terms, shall be referred to and finally resolved by arbitration administered by the Hong Kong International Arbitration Centre (“HKIAC”) in accordance with the Arbitration Rules of the Hong Kong International Arbitration Centre (“HKIAC Rules”) for the time being in force, which rules are deemed to be incorporated by reference in these Terms. The seat of the arbitration shall be Hong Kong. The Tribunal shall consist of 1 arbitrator. The language of the arbitration shall be English.**
 
-**B. Open Source**
+### B. Open Source
 
 The Platform contains certain open source software. Each item of open source software is subject to its own applicable license terms.
 
-**C. Entire Agreement**
+### C. Entire Agreement
 
 These Terms (including the supplemental terms and additional terms below) constitute the whole legal agreement between you and Nomnow and govern your use of the Services and completely replace any prior agreements between you and Nomnow in relation to the Services.
 
-**D. Links**
+### D. Links
 
 You may link to our home page, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it. You must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part where none exists. You must not establish a link to our Services in any website that is not owned by you. The website in which you are linking must comply in all respects with the content standards set out at “Condition of Use” above. We reserve the right to withdraw linking permission without notice.
 
-**E. Age Limit**
+### E. Age Limit
 
-**The Services are only for person(s) aged 13 years old and over. In some circumstances, this age limit may be higher due to local regulatory requirements, for which please refer to the applicable laws and regulations for the jurisdiction where you located. By using the relevant functions of the Platform and the Services, you confirm that you are over the age of 13, and if you are under the age of 18 you have got the prior consent of your parent or legal guardian, and you have the legal capacity to sign a binding contract with Nomnow in accordance the applicable laws and regulations.**
+**The Services are only for person(s) aged 13 years old and over. In some circumstances, this age limit may be higher due to local regulatory requirements, for which please refer to the applicable laws and regulations for the jurisdiction where you located. By using the relevant functions of the Platform and the Services, you confirm that you are over the age of 13, and if you are under the age of 18 you have got the prior consent of your parent or legal guardian and you have the legal capacity to sign a binding contract with Nomnow in accordance the applicable laws and regulations.**
 
 **If we learn that someone under the age of 13 or someone cannot meet the said requirement is using the Services, we will terminate that user’s account.**
 
-**F. No Waiver**
+### F. No Waiver
 
 Our failure to insist upon or enforce any provision of these Terms shall not be construed as a waiver of any provision or right.
 
-**G. Severability**
+### G. Severability
 
 If any court of law, having jurisdiction to decide on this matter, rules that any provision of these Terms is invalid, then that provision will be removed from the Terms without affecting the rest of the Terms, and the remaining provisions of the Terms will continue to be valid and enforceable.
 
-**H. Transfer**
+### H. Transfer
 
 You may not assign your rights under these Terms without Nomnow's prior written consent. You understand and agree that Nomnow may assign all of its rights and obligations under these Terms to any third party in its sole discretion.
 
 These Terms will bind you and Nomnow and Nomnow's successors and assigns of rights. These Terms will continue to be binding on you regardless of any change in Nomnow's name or constitution, or any merger, consolidation or combination of Nomnow with any other entity (in which case these Terms will bind you and Nomnow’s successor entities).
 
-**I. Validity of Evidence**
+### I. Validity of Evidence
 
 You acknowledge and agree that Nomnow's records and any records of any communications, transactions, instructions or operations made, conducted, processed or performed by you, any subject purporting to be you or purporting to act on your behalf (whether or not such subject has your consent) through the Services, or any communications, transactions, instructions or operations relating to the operation of the Services, and any records of any communications, transactions, instructions or operations maintained by Nomnow or by a relevant subject authorised by Nomnow shall be binding on you, regardless of purpose, and shall be conclusive evidence of such communications, transactions, instructions or operations. You further acknowledge and agree that all matters relating to these Terms shall be determined by Nomnow in its sole discretion and shall be conclusively binding on you.
 
-**J. Notice**
+### J. Notice
 
 Notices to you may be made via either email or regular mail. The Site may also provide notices to you of changes to these Terms or other matters by displaying notices or links to notices generally on the Services.
 
-**11. Changes to the Terms**
+## 11. Changes to the Terms
 
 -   We may amend these Terms from time to time, for instance when we update the functionality of our Services, or when there are regulatory changes. We will use commercially reasonable efforts to notify all users of any material changes to these Terms, such as through the “Notice” function on our Platform, however, you should look at the Terms regularly to check for such changes.
 -   We will update the “Last Updated” date at the top of these Terms, which reflect the effective date of such Terms. Your continued access or use of the Services after the date of the new Terms constitutes your acceptance of the new Terms. If you do not agree to the new Terms, you must stop accessing or using the Services.
 
-**12. Contact**
+## 12. Contact
 
 If you have any questions, comments or suggestions regarding these Terms, the Services, and any related matters, you can contact us at: [contact@nomnowchat.com](mailto:contact@nomnowchat.com).

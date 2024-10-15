@@ -1,8 +1,8 @@
-**<div style="text-align: center;">Privacy Policy</div>**
+# Privacy Policy
 
-*Last Update: [Insert Date]*
+*Last Update: 2024-10-14*
 
-**Welcome to Nomnow (the "Platform"). The Platform is operated by Socreate HK Limited, with its registered address at** **UNIT 2508A 25/F, BANK OF AMERICA TOWER, 12 HARCOURT RD CENTRAL, HONG KONG ("Nomnow", "we" or "us").**
+**Welcome to Nomnow (the "Platform"). The Platform is operated by Socreate HK Limited, with its registered address at UNIT 2508A 25/F, BANK OF AMERICA TOWER, 12 HARCOURT RD CENTRAL, HONG KONG ("Nomnow", "we" or "us").**
 
 **Nomnow offers a calorie tracking tool and an Artificial Intelligence (AI) diet analytics tool through a text, voice and photograph interface.**
 
@@ -14,7 +14,7 @@
 
 If you have any questions about how we process your personal data, please contact us at: [contact@nomnowchat.com](mailto:contact@nomnowchat.com).
 
-**Personal data we collect and use**
+## Personal data we collect and use
 
 We collect and use the following data about you:
 
@@ -24,7 +24,7 @@ We collect and use the following data about you:
 
 **Data about Your Behavior.** Data about your use of the Platform and problems that you may encounter. We may collect the data aforementioned through the feedback you submit, and surveys you participate in. We also use cookies and other similar technologies to collect such data. For more information on how we use cookies and other similar technologies, please see the "Cookies and other similar technologies" section below.
 
-**Technical Information about Your Device that We Collect. We collect certain data about the device that you use to access the Platform, such as your IP address, device manufacturer, device model, device memory, gravity sensor information, battery status, device system and system version, identifiers for advertiser, network type, network operator, device IDs, Android ID, time zone settings, phone language, phone region, screen resolution and brightness settings. Where you log-in the Platform with multiple devices, we will be able to use your profile data to identify your activity across different devices. In addition, we may also access the permissions on your device including microphone, message notifications, and collect and use relevant data. In order to access the aforesaid data stored on your device, we will implement the measures as required by relevant laws.**
+**Technical Information about Your Device that We Collect. We collect certain data about the device that you use to access the Platform, such as your IP address, device manufacturer, device model, device memory, gravity sensor information, battery status, device system and system version, identifiers for advertiser, network type, network operator, device IDs, Android ID, time zone settings, phone language, phone region, screen resolution and brightness settings. Where you log in the Platform with multiple devices, we will be able to use your profile data to identify your activity across different devices. In addition, we may also access the permissions on your device including microphone, message notifications, and collect and use relevant data. In order to access the aforesaid data stored on your device, we will implement the measures as required by relevant laws.**
 
 **Your usage information.** We collect information regarding your use of the Platform, e.g., how you engage with the Platform, including how you interact with content we show to you and the advertisements you view.
 
@@ -48,7 +48,7 @@ We may also allow certain third parties to collect information about your online
 
 **We do not collect any financial information from you**.
 
-**Purposes that we use your personal data for**
+## Purposes that we use your personal data for
 
 We will use the data we collect about you for the following purposes:
 
@@ -72,7 +72,7 @@ Further, as the purposes for which we may/will use, disclose and/or otherwise pr
 
 **Use of sensitive information**. If you choose to provide sensitive information to us, we will use that information only as described in the “Sensitive Information” section above. If you do not want us to process your sensitive information for these purposes, please do not provide it.
 
-**How do we disclose your personal data**
+## How do we disclose your personal data
 
 We provide your personal data with the following specific third parties:
 
@@ -96,50 +96,50 @@ Further to the above, you acknowledge and agree that (i) our advertisers and/or 
 -   If we sell or purchase any business or assets (whether a result of liquidation, bankruptcy or otherwise), in which case we will disclose your data to potential sellers or buyers of such business or assets; or
 -   If we sell, purchase, merge, are acquired by or partner with another company or business, or sell some or all of our assets. In such a transaction, user data may be included in the transferred assets.
 
-**How will we retain your personal data?**
+## How will we retain your personal data?
 
 **Retention location and international data transfer: to provide you the services, security maintenance and other purposes specified in this Policy, we may store your personal data in the servers in countries/regions (such as Japan) other than where you are resided and transfer your personal data to our affiliates, service providers or business partners in such countries/regions. These countries or regions may have different data protection rules than where you reside. When we transfer your personal data to the recipients in such countries/regions, we will take all necessary and appropriate measures to protect your personal data and ensure the security of your personal data in transit in accordance with this Policy and applicable data protection laws. We will also require the recipients of your personal data to provide adequate protection to safeguard the security of your data. For example, we may enter into appropriate data processing agreements with the recipients or complete other formalities as required by applicable data protection laws or regulatory authorities.**
 
 **Retention period**. We will retain your personal data where we have a proper business need or any legitimate commercial purpose to do so, for example, to fulfill our [Terms of Service](https://legal.bondee.net/terms-of-service) or provide you with our service. However, there are occasions where we are likely to keep this data for longer in accordance with our legal obligations or where it is necessary for the establishment, exercise or defense of legal claims. After you have terminated your use of our Platform (i.e., deleting your account), we will delete your personal data or process it in an anonymized way.
 
-**Your rights**
+## Your rights
 
 Under applicable data protection laws, you have certain rights to your personal data, which may include the right to access, delete, update or correct your personal data, the right to know how your personal data is processed, the right to have a copy of your personal data, the right to request us to stop the collection, processing and use of your personal data, and other rights as conferred by applicable data protection laws.
 
-**You can access, update and correct most of your personal data by signing into the Platform. You can also delete your account in "Settings" if you wish. Please note that after your confirmation of the deletion, unless otherwise required by applicable laws, your account and associated data will be permanently deleted, and you will not be able to log back into your deleted account or retrieve any of the content or information in your account.**
+**You can access, update and correct most of your personal data by signing in to the Platform. You can also delete your account in "Settings" if you wish. Please note that after your confirmation of the deletion, unless otherwise required by applicable laws, your account and associated data will be permanently deleted, and you will not be able to log back into your deleted account or retrieve any of the content or information in your account.**
 
 If you have any questions on how to use the above tools or are unable to use such tools to exercise certain rights, want to know about what rights you may have or want to exercise them, or have any other requests, inquiries, or complaints, please contact us at: [contact@nomnowchat.com](mailto:contact@nomnowchat.com).
 
-**We will respond to all requests on the exercise of personal data we receive from the user according to the applicable data protection laws. To protect the security of your account and your personal data, we may verity your identity before we respond to your requests. Under some circumstances, we may refuse to comply with your request as permitted by applicable laws. In such cases, we will explain why we refuse to respond to your request in our reply. In addition, we may charge a reasonable fee for responding to your request in accordance with applicable laws.**
+**We will respond to all requests on the exercise of personal data we receive from the user according to the applicable data protection laws. To protect the security of your account and your personal data, we may verify your identity before we respond to your requests. Under some circumstances, we may refuse to comply with your request as permitted by applicable laws. In such cases, we will explain why we refuse to respond to your request in our reply. In addition, we may charge a reasonable fee for responding to your request in accordance with applicable laws.**
 
-**The security of your personal data**
+## The security of your personal data
 
 We take measures to ensure that your data is processed securely and in accordance with this Policy, such as processing under encryption. We have appropriate technical and organizational measures to ensure a level of security appropriate to the risk of varying likelihood and severity for the rights and freedoms of you and other users, including developing internal data protection management programs, granting access on a need-to-know basis, and controlling access to personal data. We maintain these technical and organizational measures and will adjust them from time to time to improve the overall security of our systems.
 
-**Although we have taken reasonable and effective measures as described above and comply with the standards required by applicable laws and regulations, since the data transmission through the internet is not completely safe, we still cannot guarantee the security of your personal data transferred through the Platform. Any transmission is at your own risk, and you should take active measures to ensure the security of your personal data, such as: regularly changing your account password and not disclosing your account password and other personal data to others. In particular, while we provide a Platform for you to socialise and connect with other users, you should exercise care and caution when communicating with others on the Platform and not disclose sensitive information about yourself.**
+**Although we have taken reasonable and effective measures as described above and comply with the standards required by applicable laws and regulations, since the data transmission through the internet is not completely safe, we still cannot guarantee the security of your personal data transferred through the Platform. Any transmission is at your own risk and you should take active measures to ensure the security of your personal data, such as: regularly changing your account password and not disclosing your account password and other personal data to others. In particular, while we provide a Platform for you to socialise and connect with other users, you should exercise care and caution when communicating with others on the Platform and not disclose sensitive information about yourself.**
 
 **In the event of a security incident involving personal data, we will report to the competent authorities in accordance with the law, conduct a timely investigation into the incident and initiate contingency plans. At the same time, we will send notifications to relevant users through effective channels to prevent or control any data breach.**
 
-**Data relating to children**
+## Data relating to children
 
 **This Platform is not directed at individuals under the age of 13. In certain cases, this age may be higher due to local regulatory requirements. If you are under the age of 13, please do not use this Platform.**
 
-**By using the services, you confirm that you are over the age of 13, and if you are below the age of 18 you have got the prior consent of your parent or legal guardian, and you have the legal capacity to sign a binding contract with Nomnow in accordance the applicable laws and regulations,** **and you have legal capacity to provide your personal data to Nomnow.**
+**By using the services, you confirm that you are over the age of 13, and if you are below the age of 18 you have got the prior consent of your parent or legal guardian and you have the legal capacity to sign a binding contract with Nomnow in accordance the applicable laws and regulations,** **and you have legal capacity to provide your personal data to Nomnow.**
 
-**If you believe that we hold personal data about or collected from an individual under the age of 13, please contact us at** [contact@nomnowchat.com](mailto:contact@nomnowchat.com), **and we will take steps to delete the account and associated personal data under that account.**
+**If you believe that we hold personal data about or collected from an individual under the age of 13, please contact us at** [contact@nomnowchat.com](mailto:contact@nomnowchat.com) **and we will take steps to delete the account and associated personal data under that account.**
 
-**Complaints**
+## Complaints
 
 In the event that you wish to make a complaint about how we process your personal data, contact us immediately at: [contact@nomnowchat.com](mailto:contact@nomnowchat.com). We will endeavor to deal with your request as soon as possible. This is without prejudice to your right to launch a claim with relevant data protection authority.
 
-**Update to this Policy**
+## Update to this Policy
 
 **We may update this Policy from time to time for various reasons including to improve our privacy practices, to reflect changes to our Service, and to comply with relevant laws. When we update the Policy, we will notify you by updating the "Last Updated" date at the top of this Policy, and posting the new Policy. When we make any material changes to our Privacy Policy, we will notify you via in-App message, or providing any other notice required by applicable laws. Your continued access to or use of the Platform after the date of the updated Policy constitutes your acceptance of the updated Policy. If you do not agree to the updated Policy, you must stop accessing or using the Platform.**
 
-**Severability**
+## Severability
 
 If any court of law, having jurisdiction to decide on this matter, rules that any provision of this Privacy Policy is invalid, then that provision will be removed from this Privacy Policy without affecting the rest of the terms herein, and the remaining provisions of this Privacy Policy will continue to be valid and enforceable.
 
-**Contact**
+## Contact
 
 If you have questions, comments, or requests regarding this Policy and how we process your personal data, please contact us at: [contact@nomnowchat.com](mailto:contact@nomnowchat.com).
